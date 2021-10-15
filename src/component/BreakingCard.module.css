@@ -1,0 +1,28 @@
+html,body{
+    background-color: #000;
+}
+.container {
+    background: #FC9EFF;
+    color: #212121;
+    width: 270px;
+    height: 300px;
+    padding: 30px 0 30px 0;
+    border: 1px solid white;
+    border-radius: 30px;
+    margin: auto;
+    font-size: 16px;
+    margin: 40px 0 40px 0;
+    box-shadow: 0px 0px 5px 3px #DE82FF;
+  }
+  
+  .container img {
+    width: 210px;
+    height: 230px;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
